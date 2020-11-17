@@ -1,6 +1,5 @@
 .gitignore
 .gitlab-ci.yml
-.openapi-generator-ignore
 .travis.yml
 README.md
 docs/APIResponse.md
@@ -15,12 +14,6 @@ setup.cfg
 setup.py
 test-requirements.txt
 test/__init__.py
-test/test_action_req.py
-test/test_api_response.py
-test/test_authenticator_api.py
-test/test_device_api.py
-test/test_gen_token_response.py
-test/test_gen_token_response_all_of.py
 tox.ini
 worth/__init__.py
 worth/api/__init__.py
